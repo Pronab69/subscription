@@ -1,0 +1,31 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #444;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width:100% ;
+
+  object-fit: cover;
+}
+.swiper-button-next::after,
+.swiper-button-prev::after{
+  color: #fff;
+}
+
+.active{
+  background: #fff;
+  color: #000;
+  margin-right: 2px;
+}

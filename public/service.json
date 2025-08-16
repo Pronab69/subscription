@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Gourmet Snacks Box",
+    "thumbnail": "https://i.ibb.co.com/RpHmGgJW/download.jpg",
+    "banner": "https://i.ibb.co/Px5nDgS/gourmet-snacks-banner.jpg",
+    "frequency": "Monthly",
+    "price": 29.99,
+    "description": "A curated selection of premium snacks from around the world, delivered fresh every month.",
+    "tech_category": "Food & Snacks",
+    "features": [
+      "Handpicked Global Snacks",
+      "Premium Quality Ingredients",
+      "New Flavors Every Month"
+    ],
+    "subscription_benefits": [
+      "Exclusive Snack Recipes",
+      "Discount on Bulk Orders",
+      "Early Access to Seasonal Boxes"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 214
+  },
+  {
+    "id": 2,
+    "name": "Self-Care Essentials Box",
+    "thumbnail": "https://i.ibb.co.com/9HZYMnCR/download-1.jpg",
+    "banner": "https://i.ibb.co/xgdtX8c/self-care-banner.jpg",
+    "frequency": "Monthly",
+    "price": 34.99,
+    "description": "Everything you need for a relaxing self-care routine: candles, bath bombs, teas, and skincare.",
+    "tech_category": "Wellness & Lifestyle",
+    "features": [
+      "Natural Skincare Products",
+      "Aromatherapy Candles",
+      "Seasonal Self-Care Kits"
+    ],
+    "subscription_benefits": [
+      "Exclusive Wellness Guides",
+      "Discount on Spa Services",
+      "Access to Self-Care Workshops"
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 289
+  },
+  {
+    "id": 3,
+    "name": "Gamer’s Loot Crate",
+    "thumbnail": "https://i.ibb.co.com/B5RkbQJ1/download-2.jpg",
+    "banner": "https://i.ibb.co/t4Yh1Kk/gamer-banner.jpg",
+    "frequency": "Monthly",
+    "price": 39.99,
+    "description": "Exclusive gaming merchandise, accessories, and collectibles for true gamers.",
+    "tech_category": "Gaming & Tech",
+    "features": [
+      "Limited Edition Merchandise",
+      "Gaming Accessories",
+      "Fan-Favorite Collectibles"
+    ],
+    "subscription_benefits": [
+      "Exclusive Game Beta Access",
+      "Discounts on Partner Stores",
+      "Monthly Gamer Community Meetups"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 178
+  },
+  {
+    "id": 4,
+    "name": "Book Lovers Box",
+    "thumbnail": "https://i.ibb.co.com/sp0TpJ82/images.jpg",
+    "banner": "https://i.ibb.co/dpcWqVW/book-lovers-banner.jpg",
+    "frequency": "Monthly",
+    "price": 27.99,
+    "description": "A handpicked book from your favorite genre, along with reading goodies like bookmarks and tea.",
+    "tech_category": "Books & Literature",
+    "features": [
+      "Curated Book Selections",
+      "Exclusive Author Interviews",
+      "Reading-Themed Gifts"
+    ],
+    "subscription_benefits": [
+      "Book Club Membership",
+      "Exclusive Pre-Release Books",
+      "Discounts on Partner Bookstores"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 326
+  },
+  {
+    "id": 5,
+    "name": "Art & Craft Supplies Box",
+    "thumbnail": "https://i.ibb.co.com/6JVPrVrj/download-3.jpg",
+    "banner": "https://i.ibb.co/t4ypggm/art-craft-banner.jpg",
+    "frequency": "Monthly",
+    "price": 32.99,
+    "description": "Get inspired every month with unique art and craft supplies for your creative projects.",
+    "tech_category": "Arts & Hobbies",
+    "features": [
+      "Premium Art Supplies",
+      "DIY Project Kits",
+      "Exclusive Artist Tutorials"
+    ],
+    "subscription_benefits": [
+      "Discount on Art Workshops",
+      "Access to Artist Community",
+      "Exclusive Seasonal Craft Kits"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 192
+  },
+  {
+    "id": 6,
+    "name": "Fitness Fuel Box",
+    "thumbnail": "https://i.ibb.co.com/B2rGxZxf/download-4.jpg",
+    "banner": "https://i.ibb.co/pwQ5Tfv/fitness-box-banner.jpg",
+    "frequency": "Monthly",
+    "price": 35.99,
+    "description": "A monthly supply of fitness snacks, protein powders, and workout accessories to keep you motivated.",
+    "tech_category": "Fitness & Health",
+    "features": [
+      "High-Protein Snacks",
+      "Workout Accessories",
+      "Energy-Boosting Supplements"
+    ],
+    "subscription_benefits": [
+      "Free Workout Plans",
+      "Discount on Fitness Gear",
+      "Exclusive Nutrition Guides"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 245
+  }
+]
