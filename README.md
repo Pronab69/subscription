@@ -11,7 +11,7 @@ Boxify is a web application that allows users to register, log in, manage their 
 
 Live URL
 
-[Insert your live project URL here]
+[https://frolicking-empanada-eb78b3.netlify.app/]
 
 Key Features
 
